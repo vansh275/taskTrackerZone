@@ -1,0 +1,38 @@
+[
+    {
+        "id": "Z001",
+        "name": "Downtown Central Business District",
+        "sw": {
+            "lat": 40.7100,
+            "lon": -74.0180
+        },
+        "ne": {
+            "lat": 40.7500,
+            "lon": -73.9800
+        }
+    },
+    {
+        "id": "Z002",
+        "name": "Midtown Shopping District",
+        "sw": {
+            "lat": 40.7550,
+            "lon": -73.9900
+        },
+        "ne": {
+            "lat": 40.7800,
+            "lon": -73.9600
+        }
+    },
+    {
+        "id": "Z003",
+        "name": "The Port Area",
+        "sw": {
+            "lat": 40.6800,
+            "lon": -74.0250
+        },
+        "ne": {
+            "lat": 40.7050,
+            "lon": -73.9950
+        }
+    }
+]
