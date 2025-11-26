@@ -10,10 +10,10 @@ This service is a location-based system designed to track vehicles for a taxi co
 ## Setup Instructions
 
 1. **Clone the Repository**
-   git clone <https://github.com/vansh275/Geofence-Event-Processing.git>
+   git clone <https://github.com/vansh275/taskTrackerZone.git>
    
    ```
-   cd Geofence-Event-Processing
+   cd taskTrackerZone
 
 3. **Install Dependencies**
    Install the required packages defined in `package.json`:
