@@ -11,16 +11,20 @@ This service is a location-based system designed to track vehicles for a taxi co
 
 1. **Clone the Repository**
    git clone <https://github.com/vansh275/Geofence-Event-Processing.git>
+   
+   ```
    cd Geofence-Event-Processing
 
-2. **Install Dependencies**
+3. **Install Dependencies**
    Install the required packages defined in `package.json`:
+   ```
    npm install
 
-3. **Run the Service**
+4. **Run the Service**
    Start the server using Node.js:
+   ```
    node index.js
-   
+   ```
    The server will start on **Port 3000**.
 
 ## API Documentation
